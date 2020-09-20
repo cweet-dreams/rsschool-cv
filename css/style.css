@@ -58,7 +58,7 @@ header img {
 	max-width: 100px;
 	border-radius: 40%;
 }
-section {
+.info-block {
     padding: 20px 15px;
     text-align: center;
     border-bottom: 1px solid #ced7df;
